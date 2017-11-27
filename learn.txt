@@ -1,4 +1,6 @@
-test frre git branch dev
+test frre
+git branch dev
+>>>>>>> dev
 hello git Ilove this	test one
 Creating a new branch is quick and simple.
 hello
